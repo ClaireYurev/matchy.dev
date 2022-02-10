@@ -1,2 +1,2 @@
 # matchy.dev
-Web deployment of matchy repository
+Web deployment of the matchy repository
