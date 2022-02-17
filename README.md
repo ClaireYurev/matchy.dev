@@ -1,2 +1,2 @@
 # matchy.dev
-Web deployment of the matchy repository
+Deployment of the hosted web port of the (Android) matchy prototype.
